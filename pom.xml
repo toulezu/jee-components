@@ -16,7 +16,7 @@
 		<jackson.version>2.9.6</jackson.version>
 		<framework-bom.version>4.9.0</framework-bom.version>
 
-		<spring.version>4.3.4.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<spring-boot.version>1.5.22.RELEASE</spring-boot.version>
 
 		<!--<spring.version>5.2.1.RELEASE</spring.version>
